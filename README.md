@@ -18,9 +18,11 @@ $ cd docker-laravel
 $ make build up
 ```
 ## Database Migrations
-$ make fresh
 
-http://localhost
+```
+$ make fresh
+```
+http://localhost:81
 
 ## Tips
 
